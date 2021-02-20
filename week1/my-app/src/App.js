@@ -7,8 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p> This is My To Do List
+        This is My To Do List
+        </p> 
         <input type="checkbox" />firt thing to do<br/>
         <input type="checkbox" />second thing to do<br/>
         <input type="checkbox" />third thing to do<br/>
