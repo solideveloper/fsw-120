@@ -1,15 +1,22 @@
+
 .body {
     margin: auto;
+
 }
 
 .flavors {
     display: flex;
     flex-wrap: wrap;
+    background-color:rgb(216, 144, 159);
+}
+
+.bgcolor {
+    background-color: aqua;
 }
 
 .flavor-card {
     flex-basis: 250px;
-    margin: 20px;  
+    margin: 20px;
 }
 
 .flavor-card > img {

@@ -11,6 +11,8 @@ function App() {
             <FlavorCard 
                 flavor={{name: "BluezBerry", imgUrl: "https://user-images.githubusercontent.com/72266712/109277935-f5ccfc00-77e5-11eb-9dba-efad7217be30.jpg", descrip: "Blueberry & Elderberry Infused Sea Moss Gel", price: "$25"}}
             />
+
+
             
             <FlavorCard
                 flavor={{name: "Applia", imgUrl: "https://user-images.githubusercontent.com/72266712/109277938-f5ccfc00-77e5-11eb-87e3-01c1c97eeeb1.jpg", descrip: "Apple & Elderberry Infused Sea Moss Gel", price: "$25"}}
