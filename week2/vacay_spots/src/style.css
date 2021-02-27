@@ -1,0 +1,24 @@
+* {
+     background-color: rgb(245, 235, 237);
+
+}
+
+.box {
+     text-align: center;
+     width: 300px;
+     margin: 2%;
+     border: 3px solid black;
+     background-color: white;
+     
+}
+
+h2 {
+     text-decoration: underline black;
+     color: crimson;
+     background-color: white;  
+}
+p {
+     background-color: white;
+}
+
+
