@@ -1,0 +1,48 @@
+.blog-container {
+    margin-left: 35%;
+    margin-right:35%;
+    padding-top: 25px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.blog-title {
+    font-size: 20px;
+    margin-top: 0;
+   
+}
+
+.blog-title:hover {
+    color: rgb(110, 184, 228)
+}
+
+.blog-subtitle{
+    line-height: 1.5;
+    margin: 0 0 10px;
+    font-weight: 100;
+    font-size: 15px;
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.blog-subtitle:hover {
+    color: rgb(110, 184, 228)
+}
+
+.blog-author {
+    font-size: 12px;
+    color: darkgray;
+    font-weight: 50;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.blog-date {
+    font-size: 12px;
+    font-style: italic;
+    margin-top: 0;
+    color: darkgray;
+}
+
+hr {
+    margin-top: 25px;
+    color: dark gray;
+}

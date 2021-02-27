@@ -1,0 +1,20 @@
+.footer-container {
+    color: darkgray;
+    text-align: right;
+    margin-top: 30px;
+    font-variant: small-caps;
+    font-size: 12px;
+}
+
+img:hover {
+    background: teal;
+    border-radius: 60%;
+}
+
+.image-src {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    color: black;
+    width: 20px;
+    height: 20px;
+}
