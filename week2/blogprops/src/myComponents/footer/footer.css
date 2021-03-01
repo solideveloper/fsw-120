@@ -1,7 +1,8 @@
 .footer-container {
     color: darkgray;
-    text-align: right;
-    margin-top: 30px;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 2%;
     font-variant: small-caps;
     font-size: 12px;
 }
