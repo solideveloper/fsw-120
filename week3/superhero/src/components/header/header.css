@@ -1,0 +1,10 @@
+.header-container {
+     background:rgba(59, 59, 59, 0.5);
+     background-position: center;
+     background-size: cover;
+     color: white;
+     
+ }
+ header {
+      color: crimson;
+ }

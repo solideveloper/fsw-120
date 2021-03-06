@@ -1,0 +1,64 @@
+[{
+     "id": 1,
+     "name": "Danny Rand",
+     "show": "The Iron Fist",
+     "catchPhrase": "I am the Iron Fist. I hold the storm when nothing else can",
+     "imageName": "https://user-images.githubusercontent.com/72266712/110156439-f56bcc80-7db4-11eb-9616-c1cf6317e4d6.jpg"
+ },
+ {
+     "id": 2,
+     "name": "Stephen Vincent Strange",
+     "show": "Dr. Strange",
+     "catchPhrase": "We never lose our demons, Mordo. We only learn to live above them.",
+     "imageName": "https://user-images.githubusercontent.com/72266712/110156731-54c9dc80-7db5-11eb-9ba4-dc0424d8225f.jpg"
+ },
+ {
+     "id": 3,
+     "name": "Mathew Michael Murdock",
+     "show": "Dare Devil",
+     "catchPhrase": "You don't get to destroy who I am!",
+     "imageName": "https://user-images.githubusercontent.com/72266712/110157829-a757c880-7db6-11eb-9dae-879066c7706c.jpg"
+ },
+ {
+     "id": 4,
+     "name": "Ghostbusters",
+     "show": "Ghostbusters",
+     "catchPhrase": "Who you gonna call?!",
+     "imageName": "https://user-images.githubusercontent.com/72266712/110158467-6c09c980-7db7-11eb-8abf-ef86eec0d424.jpg"
+ },
+ {
+     "id": 5,
+     "name": "Albert Francis Simmons",
+     "show": "Spawn",
+     "catchPhrase": "Aren't there any normal people left on Earth, or is everybody just back from hell?",
+     "imageName": "https://user-images.githubusercontent.com/72266712/110158773-c86ce900-7db7-11eb-9468-f62324c1819e.jpg"
+ },
+ {
+     "id": 6,
+     "name": "Gargoyles",
+     "show": "Gargoyles",
+     "catchPhrase": "One thousand years ago, superstition and the sword ruled. It was a time of darkness. It was a world of fear. It was the age of gargoyles.",
+     "imageName": "https://user-images.githubusercontent.com/72266712/110159295-83958200-7db8-11eb-81b1-c9a128d80578.jpg"
+ },
+ {
+     "id": 7,
+     "name": "Steve Rogers",
+     "show": "Captain America",
+     "catchPhrase": "Avengers Assemble!",
+     "imageName": "https://user-images.githubusercontent.com/72266712/110159528-d3744900-7db8-11eb-89fe-e77b66597741.jpeg"
+ },
+ {
+     "id": 8,
+     "name": "Peter Parker",
+     "show": "Spiderman",
+     "catchPhrase": "With Great Power comes Great Responsibility.",
+     "imageName": "https://user-images.githubusercontent.com/72266712/110159736-159d8a80-7db9-11eb-81da-b03bec0faf6a.jpg"
+ },
+ {
+     "id": 9,
+     "name": "Teenage Mutant Ninja Turtles",
+     "show": "TMNT",
+     "catchPhrase": "COWABUNGA",
+     "imageName": "https://user-images.githubusercontent.com/72266712/110159947-5b5a5300-7db9-11eb-9082-6303b28ce87f.png"
+ }
+]

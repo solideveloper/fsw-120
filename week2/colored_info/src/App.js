@@ -5,7 +5,11 @@ function App() {
     return (
         <div className="flavors">
             <FlavorCard 
-                flavor={{name: "MaxBerry", imgUrl: "https://user-images.githubusercontent.com/72266712/109277927-f49bcf00-77e5-11eb-90d7-eebce04418f7.jpg", descrip: "Blackberry, Blueberry, Strawberry & Elderberry Infused Sea Moss Gel", price: "$15"}}
+                flavor={{
+                name: "MaxBerry", 
+                imgUrl: "https://user-images.githubusercontent.com/72266712/109277927-f49bcf00-77e5-11eb-90d7-eebce04418f7.jpg", 
+                descrip: "Blackberry, Blueberry, Strawberry & Elderberry Infused Sea Moss Gel", 
+                price: "$15"}}
             />
             
             <FlavorCard 

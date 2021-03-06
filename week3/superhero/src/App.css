@@ -1,0 +1,23 @@
+* {
+     background-color: #000000;
+     margin: 0;
+     justify-content: center;
+    
+    
+ }
+ h1 {
+     color: crimson;
+     font-size: 80px;
+     text-align: center;
+ }
+
+ div{
+     align-items: center;
+     text-align: center;
+     display: grid;
+     grid-template-columns: repeat(3, 2fr);
+     grid-gap: 18px;
+     color: black;
+     margin: 1%;
+     padding: 1%;   
+ }
