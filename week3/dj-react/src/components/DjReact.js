@@ -52,16 +52,16 @@ class DjReact extends React.Component {
 
     bigTimeDj1 = () => {
         this.setState(prevState => {
-            let box2 = "green"; 
+            let box1 = "green"; 
             return {
-                color: [prevState.color[0], prevState.color[1], prevState.color[2], box2]
+                color: [prevState.color[0], prevState.color[1], prevState.color[1], box1]
             }
         })
     }
 
     bigTimeDj2 = () => {
         this.setState(prevState => {
-            let box4 = "yelloworange"; 
+            let box4 = "aqua"; 
             return {
                 color: [prevState.color[0], prevState.color[1], prevState.color[2], box4]
             }
@@ -72,7 +72,7 @@ class DjReact extends React.Component {
         this.setState(prevState => {
             let box2 = "orange"; 
             return {
-                color: [prevState.color[0], prevState.color[1], prevState.color[2], box2]
+                color: [prevState.color[0], prevState.color[2], prevState.color[3], box2]
             }
         })
     }
@@ -90,21 +90,20 @@ class DjReact extends React.Component {
         this.setState(prevState => {
             let box2 = "crimson"
             return {
-                color: [prevState.color[0], box2, prevState.color[2], prevState.color[3]]
+                color: [prevState.color[0], box2, prevState.color[2], prevState.color[3], box2]
             }
         })
     }
 
     daGoat = () => {
         this.setState(prevState => {
-            let box3 = "yellow"
+            let box1 = "yellow"
             return {
-                color: [prevState.color[0], prevState.color[1], box3, prevState.color[3]]
+                color: [prevState.color[0], prevState.color[1], prevState.color[3], box1]
             }
         })
     }
 
-    
 
     render() {
         return(
@@ -125,7 +124,7 @@ class DjReact extends React.Component {
 
                     <button onClick={this.daGreat}>DJ Great</button>
 
-                    <button onCLick={this.daGoat}>Da DJ Goat</button>
+                    <button onClick={this.daGoat}>Da DJ Goat</button>
                 </div>
                 
                     
