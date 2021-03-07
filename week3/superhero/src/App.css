@@ -15,7 +15,7 @@
      align-items: center;
      text-align: center;
      display: grid;
-     grid-template-columns: repeat(3, 2fr);
+     grid-template-columns: auto auto auto;
      grid-gap: 18px;
      color: black;
      margin: 1%;
