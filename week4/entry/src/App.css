@@ -1,0 +1,28 @@
+
+html {
+    background-color: rgb(230, 230, 230);
+    padding-top: 1%;
+    font-size: 40px;
+}
+div {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    width: auto;
+    padding-top: 1%;
+ 
+}
+h1, li{
+    color: rgb(211, 125, 143);
+    font-size: 30px;
+    text-align: left;
+    width: 600px;
+
+}
+
+
+li {
+    background-color: rgb(230, 230, 230);
+}
