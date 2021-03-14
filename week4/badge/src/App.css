@@ -15,16 +15,16 @@ html {
     padding-left: 8%;
     padding-right: 4%;
     padding-bottom: 2%;
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-right: 20%;
+    margin-left: 20%;
     margin-top: 0;
    
 }
 
 .badge-title {
     padding: 10px;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
     background-color: #4b4b4b;
     color: white;
     border: 3px solid black;
