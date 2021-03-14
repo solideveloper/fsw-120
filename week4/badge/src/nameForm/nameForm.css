@@ -3,12 +3,12 @@
     grid-template-columns: 50% 50%;
     border: 3px solid black;
     border-radius: 10px;
-    padding-top: 2%;
-    padding-left: 4%;
-    padding-right: 4%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
     padding-bottom: 2%;
-    margin-right: 20%;
-    margin-left:20%;
+    margin-right: 10%;
+    margin-left:10%;
     margin-top: 0;
 
     display: grid;
@@ -16,8 +16,6 @@
     
   
 }
-
-
 
 .input-left {
     width: 95%;
