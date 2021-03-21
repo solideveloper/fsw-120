@@ -1,5 +1,5 @@
 
-.services-title {
+.serviceTitle {
     color: rgb(77, 97, 32);
     font-size: 90px;
     padding-left:20px;
@@ -19,17 +19,17 @@
     
     
 }
-.services-title{
+.serviceTitle {
     color: rgb(76, 95, 31);
     
 }
-.services-list {
+.serviceList {
     text-align: left;
     padding-bottom: 20%; 
     padding-top: 20%;
 }
 
-.main-container{
+.mainContainer{
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     margin-top: 2%;
@@ -46,7 +46,7 @@
     .html {
        width: 100%;
     }
-    .services-title {
+    .serviceTitle {
         
         font-size: 50px;
        
@@ -55,7 +55,7 @@
         margin-top: 25%;
         font-size: 45px;
     }
-    .services-list {
+    .serviceList {
         font-size: 25px;
     }
      
@@ -65,10 +65,10 @@
     .html {
        width: 100%;
     }
-    .main-container {
+    .mainContainer {
         grid-template-columns: repeat(7, 1fr);
     }
-    .services-title {
+    .serviceTitle {
         
         font-size: 60px;
         text-align: right;
@@ -81,7 +81,7 @@
         font-size: 45px;
         
     }
-    .services-list {
+    .serviceList {
         font-size: 25px;
     }
     .serviceImg{

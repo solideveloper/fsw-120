@@ -4,13 +4,13 @@ import './services.css';
 function Services() {
 
   return (
-      <div className="main-container">
-        <h1 id =" services-title" className="services-title">Services
+      <div className="mainContainer">
+        <h1 id =" serviceTitle" className="serviceTitle">Services
           
         </h1>
         
         <h2 id ="services" className="services">Installation, Repair or Replacement:
-          <ul className="services-list">
+          <ul className="serviceList">
               <li>All Home Drains & Pipes</li>
               <li>Showers</li>
               <li>Washers</li>
@@ -21,7 +21,7 @@ function Services() {
         </h2>
 
         <h2 className="services">Drain Cleaning and Sewers:
-          <ul className="services-list">
+          <ul className="serviceList">
               <li>Main Line</li>
               <li>Toliets</li>
               <li>Drain/Sewer Line</li>
@@ -35,7 +35,7 @@ function Services() {
 
 
         <h2 className="services">Maintenace, Repair and Care:
-          <ul className="services-list">
+          <ul className="serviceList">
               <li>Drain and Sewer Cleaning</li>
               <li>Update to Code</li>
               <li>Pipe Repair and Replacement</li>
