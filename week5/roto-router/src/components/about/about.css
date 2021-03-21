@@ -1,0 +1,30 @@
+.about-title {
+    color: #5a6623;
+    font-size: 90px;
+    text-decoration: underline;
+    text-align: center;
+    padding: 20px;
+}
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 300px;
+    padding-right: 5px;
+}
+
+.about-container {
+    background-color: #c3c6c7;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+
+.family-info {
+    color: #696e37;
+    margin-right: 15%;
+    margin-left: 15%;
+    padding: 20px;
+    margin-top: 30px;
+}

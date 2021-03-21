@@ -1,0 +1,131 @@
+* {
+    text-align: left;
+    font-size: 34px;
+    margin: auto;
+
+}
+.home-container{
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 40% 100%;
+    background-image: url("https://user-images.githubusercontent.com/72266712/111891063-024c0b00-89c6-11eb-8c1b-cc80014d3ec2.png") ;
+    height: 700px;
+    margin-top: 2%;
+    
+}
+.diyBox {
+    display: grid;
+    grid-template-columns: repeat(9,1fr);
+    border: 7px solid #696e37;
+    margin-top: 2%;
+}
+
+.title {
+    color: #696e37;
+    font-weight: bold;
+    font-size: 160px;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-bottom: 3%;
+}
+
+.subtitle {
+    color: #c41a1a;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 55px;
+    padding-left: 12%;
+    
+}
+.subtitle2 {
+    padding-left: 5%;
+    padding-right: 50%;
+    font-size: 45px;
+    padding-top: 3%;
+    
+}
+
+h4 {
+    font-size: 60px;
+    text-decoration: underline;
+    border-radius: 50%;
+    background-color: #c41a1a;
+    text-align: center;
+    width: 120%;
+    border: 5px solid #696e37;
+    margin-bottom: 20%;
+    
+}
+
+
+ul {
+margin-left: 2%;
+list-style: none;
+}
+li {
+margin-left: 2%;
+list-style: none;
+padding-top: 2%;
+padding-bottom: 2%;
+font-size: 28px;
+color: #c41a1a;
+
+}
+
+@media only screen and (max-width:1600px)   {
+    .html {
+       width: 100%;
+    }
+    .title {
+        font-size: 84px;
+    }
+    .subtitle {
+        font-size: 34px;
+        padding-right: 50%;
+    }
+    .subtitle2 {
+    font-size: 30px;
+    
+    }
+    .diyBox {
+        grid-template-columns: repeat(4,1fr);
+        
+    }
+    .diyBox >  li {
+        border-bottom: 5px solid #c41a1a;
+        padding: 2%;
+    }
+  
+    
+}
+
+@media only screen and (max-width:800px){
+    .html {
+        width: 100%;
+     }
+     .title {
+         font-size: 64px;
+     }
+     .subtitle {
+         font-size: 24px;
+         padding-right: 50%;
+     }
+     .subtitle2 {
+     font-size: 20px;
+     }
+     .diyBox {
+         grid-template-columns: repeat(2,1fr);  
+     }
+    
+     
+     h4 {
+         font-size: 70px;
+     }
+   
+     
+     
+ }
+
+
+
+

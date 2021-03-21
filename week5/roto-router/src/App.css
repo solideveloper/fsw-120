@@ -1,0 +1,19 @@
+html {         
+    Font-family: 'Architects Daughter', cursive;
+    
+    color: #696e37;
+   
+}
+
+@media only screen and (min-width:1300px)   {
+    .html {
+       width: 100%;
+    }
+    h6 {
+        font-size: 34px;
+    }
+    img {
+        width: auto;
+        height: auto;
+    }
+}
