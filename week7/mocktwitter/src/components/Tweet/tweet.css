@@ -1,0 +1,103 @@
+.tweetContainer {
+    display: flex;
+    background-color: #0b1f50;
+    
+}
+
+.innerBody {
+    display: flex;
+    flex-direction: row;
+}
+  
+.tweetBody {
+    width: 70%;
+    height: 25%;
+    background-color: #ffffff;
+    margin-top: 0.5rem; 
+    
+}
+  
+.tweetBody:hover { 
+    background-color: #49ace9;
+    border: #ffffff 10px solid;
+    margin-top: 2%;
+}
+  
+.picture {
+    margin-left: 2%;
+    margin-top: 2%;
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+}
+  
+.name {
+    display: flex;
+    margin-left: 0;
+    margin-top: 2%;
+    font-family: HelveticaNeue;
+    font-size: 18px;
+    color: #0b1f50;
+}
+  
+.handle {
+    margin-left: 0%;
+    margin-top: 5%;
+    height: 25%;
+    font-family: HelveticaNeue;
+    font-size: 16px;
+    color: #75797d;
+}
+  
+.tweet {
+    margin-left: 2%;
+    margin-top: 2%;
+    width: 90%;
+    height: 25%;
+    font-family: HelveticaNeue;
+    font-size: 18px;
+    color: #0b1f50;
+    padding-bottom: 5%;
+} 
+
+.tweetButton {
+    background-color: rgb(18, 89, 134);
+    color: white;
+    font-size: 16px;
+    padding: 12px;
+    border-radius: 50%;
+    border: none;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+.deleteButton {
+    margin-top: 2%;
+    height: 45px;
+    padding: 8px;
+    text-align: right;
+    background-color: rgb(18, 89, 134);
+    color: white;
+}
+
+.editButton {
+    margin-top: 30px;
+    height: 45px;
+    padding: 15px;
+    background-color: rgb(18, 89, 134);
+    color: white;
+}
+
+.buttonContainer{
+    display: flex;
+    display: inline;
+
+}
+
+
+@media screen and (min-width: 480px) {
+    .tweetContainer {
+        display: flex;
+        justify-content: center;
+    }
+}

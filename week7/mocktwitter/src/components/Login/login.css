@@ -1,0 +1,34 @@
+.loginContainer {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.loginBox {
+    padding: 20px;
+    margin-top: 20px;
+    border: none;
+    background-color: lightgrey;
+
+}
+
+.loginBox,
+.loginBox::-webkit-input-placeholder {
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+.loginButton {
+    margin-top: 25px;
+    background-color: rgb(18, 89, 134);
+    padding: 20px;
+    width: 290px;
+    color: white;
+    font-size: 15px;
+    border-radius: 30px;
+    border: none;
+    font-size: 20px;
+}
+
+.loginButton:hover {
+    background-color: rgb(135, 196, 250);
+}

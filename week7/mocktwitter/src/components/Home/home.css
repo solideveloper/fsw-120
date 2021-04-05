@@ -1,0 +1,35 @@
+
+
+
+.twitterContainer {
+    text-align: center;
+   margin-bottom: 50px; 
+   margin-top: 20px;
+   font-size: 45px;
+   color:rgb(29, 143, 242);
+   text-shadow: #151d2a 4px 4px 7px;
+   
+  
+}
+
+.homeContainer {
+    text-align: center;
+    width: 100%;
+    background-image: url("https://user-images.githubusercontent.com/72266712/113490142-47783e80-9496-11eb-982d-97710c16e5ba.png");
+    background-color: #cccccc;
+    background-repeat:no-repeat;
+    background-size: 100%;
+    
+  
+}
+
+
+.homeWords {
+    color: #15202a;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 45px;
+    text-shadow: #ffffff 8px 8px 7px;
+}
+

@@ -1,0 +1,18 @@
+.navbarContainer {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1%;
+    background-image: url("https://user-images.githubusercontent.com/72266712/113496045-adc78600-94c3-11eb-8260-b489e0625bb2.png");
+}
+
+.links {
+    
+    text-decoration: none;
+    color: rgb(166, 209, 242);
+    border: rgb(18, 89, 134) 1px solid;
+    background-color: rgb(18, 89, 134);
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 50%;
+}
+

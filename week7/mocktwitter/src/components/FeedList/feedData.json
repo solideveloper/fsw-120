@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Daniella Jackson",
+        "tag": "@danijax",
+        "message": "Hey @logican wanna hit the comedy club again tonight? I dunno about you, but I could use a laugh tonight! ",
+        "imageName": "https://user-images.githubusercontent.com/72266712/113488769-0b40e000-948e-11eb-9d98-d070d4029ea3.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Blake Wright",
+        "tag": "@wrightersblock",
+        "message": "@pennynicoledolar sure thing, I've got atleast 10.. My aunt runs a library and so books are kind of a thing in my home :) .. send me a DM, I'm happy to share the knowledge wealth!",
+        "imageName": "https://user-images.githubusercontent.com/72266712/113488679-8e156b00-948d-11eb-9856-40bc0a7cd173.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Penelope Nicole",
+        "tag": "@pennynicoledolar",
+        "message": "@wrightersblock, BOOKS?! Any encyclopedias, by chance?",
+        "imageName": "https://user-images.githubusercontent.com/72266712/113488675-8b1a7a80-948d-11eb-9b09-03fa7ca0ec68.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Blake Wright",
+        "tag": "@wrightersblock",
+        "message": "@jsmith .. sorry bud, No iMac for sale.. But TONS of books for you or anyone else who is interested!.",
+        "imageName": "https://user-images.githubusercontent.com/72266712/113488679-8e156b00-948d-11eb-9856-40bc0a7cd173.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Jon Smith",
+        "tag": "@jsmith",
+        "message": "Anyone got a used iMac for sale? I could really use the second desktop for these WebDev assignments...",
+        "imageName": "https://user-images.githubusercontent.com/72266712/113488674-8b1a7a80-948d-11eb-88a8-81a004d4ca0d.jpeg"
+    }
+]

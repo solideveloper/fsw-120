@@ -1,0 +1,16 @@
+.submit-edit {
+    font-size: 14px;
+    padding: 10px;
+    background-color: rgb(18, 89, 134);
+    color: white;
+}
+
+.edit-input {
+    font-size: 14px;
+    padding: 10px;
+}
+
+.edit-box {
+    font-size: 14px;
+    padding: 10px;
+}

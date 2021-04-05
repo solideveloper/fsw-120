@@ -1,0 +1,41 @@
+.twitterContainer{
+  
+  background-color: #ffffff;
+  color: #0e183a;
+}
+.userName {
+  font-size: 16px;
+  padding: 1%;
+  margin-bottom: 1%;
+  border: none;
+  background-color: #0e183a;
+  color: white;
+  margin-right: 1%;
+}
+
+.atName {
+  font-size: 16px;
+  padding: 1%;
+  margin-bottom: 1%;
+  color: white;
+  background-color: #0e183a;
+}
+
+.textBox {
+  font-size: 17px;
+  padding: 1%;
+  margin-bottom: 2%;
+  color: white;
+  background-color: #0e183a;
+  
+}
+
+
+@media screen and (min-width: 700px) {
+  
+  .postWrapper {
+    text-align: center;
+    margin-top: 2%;
+    background-image: url("https://user-images.githubusercontent.com/72266712/113496045-adc78600-94c3-11eb-8260-b489e0625bb2.png");
+  }
+}
